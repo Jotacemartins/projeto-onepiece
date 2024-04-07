@@ -8,10 +8,10 @@ Este é um projeto simples, onde eu criei um site com base no vídeo do canal: D
 - JavaScript
 
 ## LINK do projeto
-[[https://jotacemartins.github.io/pokedex-main/](https://jotacemartins.github.io/projeto-onepiece/)
+[https://jotacemartins.github.io/projeto-onepiece/](https://jotacemartins.github.io/projeto-onepiece/)
 
 ## LINK do vídeo
-[https://www.youtube.com/watch?v=SjtdH3dWLa8](https://www.youtube.com/watch?v=IcjhB0emU04&t=14148s)
+[https://www.youtube.com/watch?v=IcjhB0emU04&t=14148s](https://www.youtube.com/watch?v=IcjhB0emU04&t=14148s)
 
 ## Etiquetas
 
@@ -21,5 +21,3 @@ Este é um projeto simples, onde eu criei um site com base no vídeo do canal: D
 
 ## Screenshots
 ![projeto-one-piece](https://github.com/Jotacemartins/projeto-onepiece/assets/144477471/095190f0-157a-47af-b80a-02ebc0b65105)
-
-
