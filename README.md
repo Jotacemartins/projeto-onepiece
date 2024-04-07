@@ -1,7 +1,7 @@
 # ONE PIECE
 
 Este é um projeto simples, onde eu criei um site com base no vídeo do canal: Dev em dobro.
-Desenvolvi uma mudança minima acrescentando o personagem usopp, para o bando ficar completo.
+<p>Desenvolvi uma mudança minima acrescentando o personagem usopp, para o bando ficar completo.</p>
 
 ## Tecnologias Usadas
 - HTML
