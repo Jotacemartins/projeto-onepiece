@@ -1,4 +1,12 @@
-O projeto em si é um Desafio da semana do Programador, em que eu deveria criar um site do meu anime favorito.
-O projeto foi desenvolvido na Semana do Zero ao Programador Contratado do Dev em Dobro
+Este projeto foi desenvolvido no evento: "Do zero ao programador contratado", juntamente com o devemdobro pelo Yotubue. E com as aulas reproduzi a página web que estava sendo desenvolvida sobre meu anime favorito One Piece".
 
-![image](https://github.com/Jotacemartins/projeto-onepiece/assets/144477471/ba4e0bf4-b51c-492d-835e-455f17e8bdae)
+Link do video: https://www.youtube.com/watch?v=IcjhB0emU04&t=644s
+
+Linguagens de programação que utilizei no projeto: Js HTML CSS
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
