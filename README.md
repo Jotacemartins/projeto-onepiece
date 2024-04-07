@@ -21,5 +21,5 @@ Este é um projeto simples, onde eu criei um site com base no vídeo do canal: D
 
 ## Screenshots
 ![projeto-one-piece](https://github.com/Jotacemartins/projeto-onepiece/assets/144477471/095190f0-157a-47af-b80a-02ebc0b65105)
-0c8)
+
 
