@@ -1,28 +1,25 @@
-# One Piece - Dev em dobro
-<p>
-    <img src="https://img.shields.io/github/languages/count/MatheusPrudente/x-men-dev-em-dobro"/>
-    <img src="https://img.shields.io/github/repo-size/MatheusPrudente/x-men-dev-em-dobro"/>
-    <img src="https://img.shields.io/github/last-commit/MatheusPrudente/x-men-dev-em-dobro"/>
-    <img src="https://img.shields.io/github/issues/MatheusPrudente/x-men-dev-em-dobro"/>
-</p>
+# ONE PIECE
 
-## Tecnologias 
+Este é um projeto simples, onde eu criei um site com base no vídeo do canal: Dev em dobro.
 
-Este projeto foi desenvolvido com as seguintes tecnologias : 
-
+## Tecnologias Usadas
 - HTML
 - CSS
-- JAVASCRIPT
+- JavaScript
 
-## Descrição do Projeto
+## LINK do projeto
+[[https://jotacemartins.github.io/pokedex-main/](https://jotacemartins.github.io/projeto-onepiece/)
 
-Este projeto teve como objetivo realizar a verificação dos personagens com a temática do "One piece"
+## LINK do vídeo
+[https://www.youtube.com/watch?v=SjtdH3dWLa8](https://www.youtube.com/watch?v=IcjhB0emU04&t=14148s)
 
-Foi feita mudança minima da minha parte, adicionando o personagem Usopp, para assim ter todos os primeiros personagens do bando.
+## Etiquetas
 
-![image](https://github.com/MatheusPrudente/x-men-dev-em-dobro/assets/80559882/8202cfd7-5bbf-4b39-9750-78f614dc072d)
+- [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+- [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+- [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
+## Screenshots
+![projeto-one-piece](https://github.com/Jotacemartins/projeto-onepiece/assets/144477471/095190f0-157a-47af-b80a-02ebc0b65105)
+0c8)
 
-## License
-
-Este projeto está sob a licença do MIT. Consulte o arquivo [LICENÇA](https://github.com/MatheusPrudente/x-men-dev-em-dobro/blob/main/LICENSE) para mais detalhes.
