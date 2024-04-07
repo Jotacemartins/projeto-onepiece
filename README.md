@@ -1,4 +1,4 @@
-Este projeto foi desenvolvido no evento: "Do zero ao programador contratado", juntamente com o devemdobro pelo Yotubue. E com as aulas reproduzi a página web que estava sendo desenvolvida sobre meu anime favorito One Piece".
+Este projeto foi desenvolvido no evento: "Do zero ao programador contratado", juntamente com o devemdobro pelo Yotutube. E com as aulas reproduzi a página web que estava sendo desenvolvida sobre meu anime favorito One Piece".
 
 Link do video: https://www.youtube.com/watch?v=IcjhB0emU04&t=644s
 
