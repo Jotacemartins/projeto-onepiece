@@ -1,7 +1,7 @@
 # ONE PIECE
 
-Este é um projeto simples, onde eu criei um site com base no vídeo do canal: Dev em dobro.
-<p>Desenvolvi uma mudança minima acrescentando o personagem usopp, para o bando ficar completo.</p>
+Este é um projeto simples, onde foi criado um site, onde são apresentados todos os personagens do meu anime favorito one piece.
+
 
 ## Tecnologias Usadas
 - HTML
